@@ -1,0 +1,22 @@
+# testcase: t3
+# created by XXX
+.i 1
+.o 2
+.p 14
+.s 7
+.r S0
+0 S0 S6 00
+0 S2 S5 00
+0 S3 S5 00
+0 S4 S6 00
+0 S5 S0 10
+0 S6 S0 01
+0 S7 S5 00
+1 S6 S2 01
+1 S5 S2 10
+1 S4 S6 10
+1 S7 S6 10
+1 S0 S4 00
+1 S2 S3 00
+1 S3 S7 00
+.e
